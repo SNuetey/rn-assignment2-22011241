@@ -7,3 +7,7 @@ First, i begin with creating a folder "solomon"
 
 I cmd from the folder an hit "Enter", it will open cmd terminl with the folder "solomon" as the directory
 ![WhatsApp Image 2024-07-06 at 8 01 21 AM](https://github.com/SNuetey/rn-assignment2-22011241/assets/173564216/7f0ad123-6161-4ff4-b638-7bde0df25da1)
+
+I Run npm install expo -g
+this install expo on my machine
+![WhatsApp Image 2024-07-06 at 8 07 37 AM](https://github.com/SNuetey/rn-assignment2-22011241/assets/173564216/c4efaf08-687f-42cc-8933-61a766ebe949)
