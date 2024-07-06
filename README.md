@@ -26,10 +26,11 @@ I install expo on my android app
 ![WhatsApp Image 2024-07-06 at 8 45 06 AM](https://github.com/SNuetey/rn-assignment2-22011241/assets/173564216/2f2477db-30c7-4b6a-b20e-f795c6449112)
 
 And scan the QR Code on vscode
-![WhatsApp Image 2024-07-06 at 8 45 06 AM](https://github.com/SNuetey/rn-assignment2-22011241/assets/173564216/291ea716-5640-43b0-8cee-098cf215f3a2)
+![WhatsApp Image 2024-07-06 at 8 40 42 AM](https://github.com/SNuetey/rn-assignment2-22011241/assets/173564216/70625a43-6585-471c-930a-508b2bc93e1b)
+
 
 The app run on the mobile phone
 ![WhatsApp Image 2024-07-06 at 8 48 43 AM](https://github.com/SNuetey/rn-assignment2-22011241/assets/173564216/5db5f3f9-7f30-4294-818f-89ed311ed300)
 
 Then i finally edited the App.js file as instructed in the assignment
-![WhatsApp Image 2024-07-06 at 8 48 43 AM](https://github.com/SNuetey/rn-assignment2-22011241/assets/173564216/6e7a111a-483c-4a32-bbc8-0f0bb83fa1d9)
+![WhatsApp Image 2024-07-06 at 9 09 25 AM](https://github.com/SNuetey/rn-assignment2-22011241/assets/173564216/f1ec9dfd-2025-4070-9e04-4a9e678922c3)
